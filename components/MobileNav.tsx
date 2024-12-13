@@ -83,7 +83,7 @@ const MobileNav = ({ user }: MobileNavProps) => {
                     </SheetClose>
                   );
                 })}
-                USER
+                <h1 className="text-blue-700">{user.firstname}</h1>
               </nav>
             </SheetClose>
 
