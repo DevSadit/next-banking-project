@@ -53,11 +53,9 @@ const Sidebar = ({ user }: SiderbarProps) => {
         })}
 
         {/* <PlaidLink user={user} /> */}
-        {/* user */}
       </nav>
 
       {/* <Footer user={user} /> */}
-      {/* footer */}
     </section>
   );
 };
